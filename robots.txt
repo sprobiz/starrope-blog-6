@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog6.starrope2023.com/sitemap.xml
