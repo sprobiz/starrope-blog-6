@@ -319,6 +319,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: 1fr 340px;
   gap: 40px;
   margin-bottom: 80px;
+  align-items: start;
 }
 
 /* --- BLOG GRID --- */
@@ -346,7 +347,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-card-thumb {
-  height: 200px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   background-position: center;
   background-size: cover;
   background-color: var(--bg-ad);
@@ -780,7 +782,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 16px;
 }
 
-/* --- RESPONSIVE BREAKPOINTS --- */
+}
+
 @media (max-width: 992px) {
   .main-layout, .post-article-layout {
     grid-template-columns: 1fr;
