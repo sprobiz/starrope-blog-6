@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "fisetin-senolytic-brain-longevity.html",
+      "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Jul 10, 2026",
+      "title": "Fisetin: The Powerful Senolytic for Cellular Cleanup and Brain Health",
+      "description": "Discover how Fisetin acts as a natural senolytic to clear senescent zombie cells, improve cognitive function, reduce inflammation, and support healthy brain aging.",
+      "publish_date": "2026-07-10",
+      "publish_time": "16:00"
+    },
+    {
       "filename": "methylene-blue-mitochondrial-respiration-brain-longevity.html",
       "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
       "tag": "Biohacking",
