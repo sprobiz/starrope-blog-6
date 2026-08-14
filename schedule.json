@@ -1,6 +1,36 @@
 {
   "posts": [
     {
+      "filename": "magnesium-l-threonate-brain-longevity-synaptic-density.html",
+      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Aug 14, 2026",
+      "title": "Magnesium L-Threonate for Brain Longevity: Synaptic Density, Blood-Brain Barrier Transport, and Neuroprotection Protocols",
+      "description": "Discover the biohacking science of Magnesium L-Threonate (Magtein). Learn how BBB-permeable magnesium enhances synaptic density, restores NMDA receptors, improves memory retention, and optimizes deep sleep architecture.",
+      "publish_date": "2026-08-14",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "liposomal-nmn-vs-sublingual-bioavailability-longevity.html",
+      "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Aug 12, 2026",
+      "title": "Liposomal NMN vs Sublingual NMN: Bioavailability Breakthroughs, NAD+ Boosting Science, and Longevity Protocols",
+      "description": "Compare Liposomal NMN and Sublingual NMN for cellular bioavailability and NAD+ elevation. Discover science-backed absorption pathways, optimal biohacking dosages, and daily longevity stacks.",
+      "publish_date": "2026-08-12",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "astaxanthin-antioxidant-skin-mitochondrial-longevity.html",
+      "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Aug 11, 2026",
+      "title": "Astaxanthin: The King of Antioxidants for Cellular Longevity, Skin Rejuvenation, and Mitochondrial Defense",
+      "description": "Discover the scientific benefits of Astaxanthin. Learn how this ultra-potent carotenoid targets mitochondrial inner membranes, crosses the blood-brain barrier, combats skin photoaging, and extends healthspan.",
+      "publish_date": "2026-08-11",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "glucosamine-longevity-caloric-restriction-mimetic.html",
       "image_url": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=800&q=80",
       "tag": "Biohacking",
@@ -329,6 +359,26 @@
       "description": "Discover the biological mechanics of oral Hyaluronic Acid and liposomal collagen peptides for dermal fibroblast stimulation, extracellular matrix preservation, and preventing skin aging.",
       "publish_date": "2026-07-30",
       "publish_time": "08:00"
+    },
+    {
+      "filename": "trehalose-lysosomal-autophagy-neuroprotection.html",
+      "image_url": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Aug 05, 2026",
+      "title": "Trehalose and TFEB Activation: The Lysosomal Autophagy Protocol for Protein Clearance and Cellular Longevity",
+      "description": "Discover the scientific mechanisms of Trehalose for activating TFEB (Transcription Factor EB), restoring lysosomal biogenesis, clearing toxic protein aggregates, and promoting neuroprotective healthspan.",
+      "publish_date": "2026-08-05",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "creatine-brain-longevity-methylation-atp.html",
+      "image_url": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
+      "tag": "Biohacking",
+      "date_display": "Aug 07, 2026",
+      "title": "Creatine Monohydrate for Brain Longevity: Cellular ATP Preservation, Methylation Sparing, and Neuroprotection Protocol",
+      "description": "Discover the groundbreaking biohacking science of Creatine Monohydrate for brain aging, cellular energy, SAMe methylation sparing, and cognitive healthspan extension.",
+      "publish_date": "2026-08-07",
+      "publish_time": "10:00"
     }
   ]
 }
