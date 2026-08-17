@@ -1,384 +1,394 @@
-{
-  "posts": [
-    {
-      "filename": "magnesium-l-threonate-brain-longevity-synaptic-density.html",
-      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Aug 14, 2026",
-      "title": "Magnesium L-Threonate for Brain Longevity: Synaptic Density, Blood-Brain Barrier Transport, and Neuroprotection Protocols",
-      "description": "Discover the biohacking science of Magnesium L-Threonate (Magtein). Learn how BBB-permeable magnesium enhances synaptic density, restores NMDA receptors, improves memory retention, and optimizes deep sleep architecture.",
-      "publish_date": "2026-08-14",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "liposomal-nmn-vs-sublingual-bioavailability-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Aug 12, 2026",
-      "title": "Liposomal NMN vs Sublingual NMN: Bioavailability Breakthroughs, NAD+ Boosting Science, and Longevity Protocols",
-      "description": "Compare Liposomal NMN and Sublingual NMN for cellular bioavailability and NAD+ elevation. Discover science-backed absorption pathways, optimal biohacking dosages, and daily longevity stacks.",
-      "publish_date": "2026-08-12",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "astaxanthin-antioxidant-skin-mitochondrial-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Aug 11, 2026",
-      "title": "Astaxanthin: The King of Antioxidants for Cellular Longevity, Skin Rejuvenation, and Mitochondrial Defense",
-      "description": "Discover the scientific benefits of Astaxanthin. Learn how this ultra-potent carotenoid targets mitochondrial inner membranes, crosses the blood-brain barrier, combats skin photoaging, and extends healthspan.",
-      "publish_date": "2026-08-11",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "glucosamine-longevity-caloric-restriction-mimetic.html",
-      "image_url": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 17, 2026",
-      "title": "Glucosamine for Longevity: How This Common Joint Supplement Mimics Caloric Restriction",
-      "description": "Discover how Glucosamine extends lifespan and healthspan. Learn about AMPK activation, autophagy induction, and how it mimics caloric restriction to protect cells.",
-      "publish_date": "2026-07-17",
-      "publish_time": "10:30"
-    },
-    {
-      "filename": "taurine-longevity-healthspan-extension.html",
-      "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 15, 2026",
-      "title": "Taurine for Longevity: How This Amino Acid Extends Lifespan and Slows Aging",
-      "description": "Explore the science-backed benefits of Taurine for extending lifespan, combating cellular senescence, and boosting mitochondrial health. Complete biohacking guide.",
-      "publish_date": "2026-07-15",
-      "publish_time": "16:00"
-    },
-    {
-      "filename": "glynac-glutathione-mitochondrial-reversal.html",
-      "image_url": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 11, 2026",
-      "title": "GlyNAC: The Synergistic Stack of Glycine and NAC for Cellular Rejuvenation",
-      "description": "Discover how GlyNAC (Glycine + N-Acetylcysteine) boosts glutathione levels, corrects mitochondrial dysfunction, reduces oxidative stress, and reverses biological aging markers.",
-      "publish_date": "2026-07-11",
-      "publish_time": "10:00"
-    },
-    {
-      "filename": "fisetin-senolytic-brain-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 10, 2026",
-      "title": "Fisetin: The Powerful Senolytic for Cellular Cleanup and Brain Health",
-      "description": "Discover how Fisetin acts as a natural senolytic to clear senescent zombie cells, improve cognitive function, reduce inflammation, and support healthy brain aging.",
-      "publish_date": "2026-07-10",
-      "publish_time": "16:00"
-    },
-    {
-      "filename": "methylene-blue-mitochondrial-respiration-brain-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 06, 2026",
-      "title": "Methylene Blue: The Mitochondrial Respiration and Cognitive Longevity Booster",
-      "description": "Explore the science-backed benefits of Methylene Blue for mitochondrial electron chain transport, memory enhancement, neuroprotection, and cellular energy optimization.",
-      "publish_date": "2026-07-06",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "astragalus-root-telomere-lengthening.html",
-      "image_url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 03, 2026",
-      "title": "Astragalus Root (TA-65) for Telomere Lengthening: Cellular Science and Immunity",
-      "description": "Discover the science of Astragalus Root extract (TA-65) for telomere lengthening, immune rejuvenation, cellular longevity, and biological age reversal.",
-      "publish_date": "2026-07-03",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "coq10-pqq-mitochondrial-synergy.html",
-      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 01, 2026",
-      "title": "CoQ10 and PQQ: The Synergistic Stack for Mitochondrial Biogenesis & Brain Longevity",
-      "description": "Explore how CoQ10 and PQQ work synergistically to boost cellular ATP production, stimulate mitochondrial biogenesis, and protect brain cells from cognitive decline.",
-      "publish_date": "2026-07-01",
-      "publish_time": "09:00"
-    },
-    {
-      "filename": "maximize-autophagy-supplement-stack.html",
-      "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 16, 2026",
-      "title": "How to Maximize Cellular Autophagy: Synergistic Stacking of NMN, Fisetin, and Spermidine",
-      "description": "Examine the scientific mechanics of cellular cleanup. Learn how to design an optimal biohacking stack combining NMN, Fisetin, and Spermidine to maximize autophagy and target senescent cells.",
-      "publish_date": "2026-06-16",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "mitochondrial-biohacking-nad-boosters.html",
-      "image_url": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 07, 2026",
-      "title": "Mitochondrial Biohacking: 5 Science-Backed Protocols to Boost NAD+",
-      "description": "Discover the top 5 science-backed mitochondrial biohacking protocols. Learn how NAD+ boosters, NMN, CoQ10, and lifestyle adjustments extend healthspan.",
-      "publish_date": "2026-06-07",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "resveratrol-pterostilbene-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 08, 2026",
-      "title": "Resveratrol vs Pterostilbene: Which Is Better for Anti-Aging?",
-      "description": "Compare Resveratrol and Pterostilbene for anti-aging. Learn about bioavailability, sirtuin activation, optimal dosage, and side effects.",
-      "publish_date": "2026-06-08",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "cold-plunge-mitochondria-health.html",
-      "image_url": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 09, 2026",
-      "title": "Cold Plunge Biohacking: How Cold Exposure Boosts Mitochondria",
-      "description": "Discover the science of cold plunge biohacking. Learn how cold exposure activates brown fat, triggers mitochondrial biogenesis, and lowers chronic inflammation.",
-      "publish_date": "2026-06-09",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "sirtuins-activation-diet-protocols.html",
-      "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 10, 2026",
-      "title": "Sirtuin Activation: 5 Daily Dietary Protocols for Longevity",
-      "description": "Unlock the secrets of Sirtuin activation. Learn 5 practical, daily dietary protocols and foods to activate longevity pathways, repair DNA, and boost NAD+.",
-      "publish_date": "2026-06-10",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "apigenin-cd38-booster-sleep.html",
-      "image_url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 11, 2026",
-      "title": "Apigenin Guide: How This CD38 Inhibitor Boosts Sleep and NAD+ Levels",
-      "description": "Learn how Apigenin acts as a CD38 inhibitor to protect NAD+ levels, reduce anxiety, and optimize deep sleep cycles. Complete dosage and stacking guide.",
-      "publish_date": "2026-06-11",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "zone-2-cardio-mitochondrial-density.html",
-      "image_url": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 12, 2026",
-      "title": "Zone 2 Training: The Ultimate Protocol to Increase Mitochondrial Density",
-      "description": "Discover how Zone 2 training increases mitochondrial density, improves metabolic flexibility, and delays biological aging. Complete weekly protocol guide.",
-      "publish_date": "2026-06-12",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "ashwagandha-cortisol-stress-reduction.html",
-      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 13, 2026",
-      "title": "Ashwagandha Biohacking: Science-Backed Stress and Cortisol Reduction",
-      "description": "Discover the biohacking science of Ashwagandha. Learn how this adaptogen lowers cortisol, reduces chronic stress, improves sleep, and supports cellular health.",
-      "publish_date": "2026-06-13",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "senolytics-quercetin-dasatinib-aging.html",
-      "image_url": "https://images.unsplash.com/photo-1567306301408-9b74779a11af?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 14, 2026",
-      "title": "Senolytics Guide: How Quercetin and Fisetin Clear Senescent Cells",
-      "description": "Unlock the power of senolytics. Learn how natural compounds like Quercetin, Fisetin, and Piperlongumine clear senescent zombie cells to halt biological aging.",
-      "publish_date": "2026-06-14",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "mitopure-urolithin-a-mitophagy.html",
-      "image_url": "https://images.unsplash.com/photo-1529692236671-f1db0e74c0c5?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 15, 2026",
-      "title": "Urolithin A and Mitopure: The Mitophagy Activator for Muscle Health",
-      "description": "Discover how Urolithin A and Mitopure activate mitophagy to clear damaged mitochondria, restore cellular energy, and increase muscle strength. Complete guide.",
-      "publish_date": "2026-06-15",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "time-restricted-eating-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1517949908113-3d3c821a6aaf?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 16, 2026",
-      "title": "Time-Restricted Eating for Longevity: 16/8, 18/6, and Cellular Repair",
-      "description": "Learn how time-restricted eating schedules support autophagy, insulin sensitivity, and longevity pathways in aging adults.",
-      "publish_date": "2026-06-16",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "cold-therapy-heat-shock-proteins.html",
-      "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 17, 2026",
-      "title": "Cold Therapy and Heat Shock Proteins: Recovery, Resilience, and Longevity",
-      "description": "Explore how cold exposure triggers heat shock proteins, reduces inflammation, and strengthens metabolic resilience for healthy aging.",
-      "publish_date": "2026-06-17",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "sleep-hygiene-melatonin-biohacking.html",
-      "image_url": "https://images.unsplash.com/photo-1511295742362-92c96b124e52?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 18, 2026",
-      "title": "Sleep Hygiene for Biohackers: Melatonin, Light, and Recovery",
-      "description": "Master sleep hygiene for optimal recovery, hormone balance, and cellular repair with biohacking strategies tailored to longevity.",
-      "publish_date": "2026-06-18",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "gut-microbiome-senescence.html",
-      "image_url": "https://images.unsplash.com/photo-1550950158-d0d960dff51b?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 19, 2026",
-      "title": "Gut Microbiome and Cellular Senescence: The Biohacking Path to Healthspan",
-      "description": "Understand how a balanced microbiome supports mitochondria, immunity, and aging-proof health through targeted nutrition and prebiotics.",
-      "publish_date": "2026-06-19",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "oxidative-stress-nrf2-antioxidant-pathways.html",
-      "image_url": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 20, 2026",
-      "title": "Oxidative Stress and Nrf2 Activation: Antioxidant Biohacks for Longevity",
-      "description": "Learn how Nrf2 activation and antioxidant support protect cells from oxidative damage and preserve healthspan in aging adults.",
-      "publish_date": "2026-06-20",
-      "publish_time": "10:20"
-    },
-    {
-      "filename": "nmn-vs-resveratrol-anti-aging.html",
-      "image_url": "https://images.unsplash.com/photo-1550572017-edf7928424a1?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 18, 2026",
-      "title": "NMN vs. Resveratrol: Science-Backed Synergistic Longevity & Anti-Aging Stack",
-      "description": "Understand the synergy of Nicotinamide Mononucleotide (NMN) and Resveratrol. Explore cell repair mechanisms, sirtuin activation, and correct stacking protocols.",
-      "publish_date": "2026-06-18",
-      "publish_time": "08:20"
-    },
-    {
-      "filename": "chondroitin-msm-joint-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jun 18, 2026",
-      "title": "Chondroitin and MSM Synergy: The Scientific Protocol for Joint Longevity and Cartilage Repair",
-      "description": "Discover the scientific mechanism behind the joint longevity synergy of Chondroitin and MSM. Learn how this powerful combination reduces inflammation, restores cartilage, and enhances biological healthspan.",
-      "publish_date": "2026-06-18",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "lithium-orotate-neurogenesis-brain-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 02, 2026",
-      "title": "Lithium Orotate: The Microdose Biohack for Neurogenesis, BDNF, and Brain Longevity",
-      "description": "Discover how microdosing Lithium Orotate stimulates neurogenesis, increases BDNF levels, protects brain volume, and supports long-term cognitive healthspan.",
-      "publish_date": "2026-07-02",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "sulforaphane-nrf2-cellular-defense-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 08, 2026",
-      "title": "Sulforaphane and Nrf2: The Ultimate Science-Backed Cellular Defense Stack",
-      "description": "Discover how Sulforaphane activates the Nrf2 pathway to boost cellular detoxification, combat oxidative stress, reduce DNA damage, and promote longevity.",
-      "publish_date": "2026-07-08",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "ca-akg-epigenetic-age-reversal-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 09, 2026",
-      "title": "Calcium Alpha-Ketoglutarate (Ca-AKG): The Epigenetic Age Reversal Molecule",
-      "description": "Discover the cellular mechanisms of Ca-AKG, including DNA methylation regulation, AMPK activation, mTOR inhibition, and its clinical potential to reverse biological age.",
-      "publish_date": "2026-07-09",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "spermidine-autophagy-cellular-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 12, 2026",
-      "title": "Spermidine: The Autophagy-Inducing Compound for Cellular Rejuvenation",
-      "description": "Explore how Spermidine induces autophagy, enhances cellular clearance of toxic proteins, improves cardiovascular health, and supports human healthspan.",
-      "publish_date": "2026-07-12",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "ergothioneine-mitochondrial-longevity-antioxidant.html",
-      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 13, 2026",
-      "title": "Ergothioneine: The Longevity Vitamin for Mitochondrial Protection and Healthy Aging",
-      "description": "Discover how Ergothioneine, the newly designated longevity vitamin, targets cellular transporter OCTN1 to protect mitochondria, preserve DNA, and defend against biological aging.",
-      "publish_date": "2026-07-13",
-      "publish_time": "07:00"
-    },
-    {
-      "filename": "nicotinamide-riboside-nr-nad-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 26, 2026",
-      "title": "Nicotinamide Riboside (NR): NAD+ Restoration, Mitochondrial Respiration, and Healthy Aging Protocol",
-      "description": "Discover the scientific mechanism of Nicotinamide Riboside (NR) for boosting NAD+ levels, activating Sirtuin enzymes, repairing cellular DNA, and fueling mitochondrial respiration.",
-      "publish_date": "2026-07-26",
-      "publish_time": "16:00"
-    },
-    {
-      "filename": "tmg-betaine-methylation-nad-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 28, 2026",
-      "title": "TMG (Trimethylglycine): The Essential Methyl Donor for NAD+ Boosters, Homocysteine Control, and Cellular Longevity",
-      "description": "Discover the scientific mechanisms of Trimethylglycine (TMG / Betaine Anhydrous) for supporting cellular methylation pathways, lowering toxic homocysteine levels, protecting hepatic health, and optimizing NMN/NR supplementation.",
-      "publish_date": "2026-07-28",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "alpha-gpc-huperzine-a-neuroplasticity-brain-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Jul 29, 2026",
-      "title": "Alpha-GPC and Huperzine A: The Acetylcholine Stack for Brain Longevity, Neuroplasticity, and Memory",
-      "description": "Explore how combining Alpha-GPC and Huperzine A optimizes cholinergic transmission, promotes BDNF expression, protects synaptic density, and prevents age-related cognitive decline.",
-      "publish_date": "2026-07-29",
-      "publish_time": "16:00"
-    },
-    {
-      "filename": "hyaluronic-acid-collagen-matrix-skin-longevity.html",
-      "image_url": "https://images.unsplash.com/photo-1512290900673-70024421d9c6?auto=format&fit=crop&w=800&q=80",
-      "tag": "Anti-Aging",
-      "date_display": "Jul 30, 2026",
-      "title": "Oral Hyaluronic Acid and Liposomal Collagen: Cellular Skin Longevity, ECM Matrix Renewal, and Glycation Defense",
-      "description": "Discover the biological mechanics of oral Hyaluronic Acid and liposomal collagen peptides for dermal fibroblast stimulation, extracellular matrix preservation, and preventing skin aging.",
-      "publish_date": "2026-07-30",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "trehalose-lysosomal-autophagy-neuroprotection.html",
-      "image_url": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Aug 05, 2026",
-      "title": "Trehalose and TFEB Activation: The Lysosomal Autophagy Protocol for Protein Clearance and Cellular Longevity",
-      "description": "Discover the scientific mechanisms of Trehalose for activating TFEB (Transcription Factor EB), restoring lysosomal biogenesis, clearing toxic protein aggregates, and promoting neuroprotective healthspan.",
-      "publish_date": "2026-08-05",
-      "publish_time": "08:00"
-    },
-    {
-      "filename": "creatine-brain-longevity-methylation-atp.html",
-      "image_url": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tag": "Biohacking",
-      "date_display": "Aug 07, 2026",
-      "title": "Creatine Monohydrate for Brain Longevity: Cellular ATP Preservation, Methylation Sparing, and Neuroprotection Protocol",
-      "description": "Discover the groundbreaking biohacking science of Creatine Monohydrate for brain aging, cellular energy, SAMe methylation sparing, and cognitive healthspan extension.",
-      "publish_date": "2026-08-07",
-      "publish_time": "10:00"
-    }
-  ]
+﻿{
+    "posts":  [
+                  {
+                      "filename":  "l-carnosine-anti-glycation-ages-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 17, 2026",
+                      "title":  "L-Carnosine for Anti-Glycation: Inhibiting AGEs, Protecting Proteins, and Extending Cellular Lifespan Protocols",
+                      "description":  "Discover the biohacking science of L-Carnosine for anti-glycation. Learn how carnosine inhibits Advanced Glycation End-products (AGEs), prevents collagen \u0026 neural cross-linking, stabilizes telomeres, and extends healthspan.",
+                      "publish_date":  "2026-08-17",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "magnesium-l-threonate-brain-longevity-synaptic-density.html",
+                      "image_url":  "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 14, 2026",
+                      "title":  "Magnesium L-Threonate for Brain Longevity: Synaptic Density, Blood-Brain Barrier Transport, and Neuroprotection Protocols",
+                      "description":  "Discover the biohacking science of Magnesium L-Threonate (Magtein). Learn how BBB-permeable magnesium enhances synaptic density, restores NMDA receptors, improves memory retention, and optimizes deep sleep architecture.",
+                      "publish_date":  "2026-08-14",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "liposomal-nmn-vs-sublingual-bioavailability-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 12, 2026",
+                      "title":  "Liposomal NMN vs Sublingual NMN: Bioavailability Breakthroughs, NAD+ Boosting Science, and Longevity Protocols",
+                      "description":  "Compare Liposomal NMN and Sublingual NMN for cellular bioavailability and NAD+ elevation. Discover science-backed absorption pathways, optimal biohacking dosages, and daily longevity stacks.",
+                      "publish_date":  "2026-08-12",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "astaxanthin-antioxidant-skin-mitochondrial-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 11, 2026",
+                      "title":  "Astaxanthin: The King of Antioxidants for Cellular Longevity, Skin Rejuvenation, and Mitochondrial Defense",
+                      "description":  "Discover the scientific benefits of Astaxanthin. Learn how this ultra-potent carotenoid targets mitochondrial inner membranes, crosses the blood-brain barrier, combats skin photoaging, and extends healthspan.",
+                      "publish_date":  "2026-08-11",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "glucosamine-longevity-caloric-restriction-mimetic.html",
+                      "image_url":  "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 17, 2026",
+                      "title":  "Glucosamine for Longevity: How This Common Joint Supplement Mimics Caloric Restriction",
+                      "description":  "Discover how Glucosamine extends lifespan and healthspan. Learn about AMPK activation, autophagy induction, and how it mimics caloric restriction to protect cells.",
+                      "publish_date":  "2026-07-17",
+                      "publish_time":  "10:30"
+                  },
+                  {
+                      "filename":  "taurine-longevity-healthspan-extension.html",
+                      "image_url":  "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 15, 2026",
+                      "title":  "Taurine for Longevity: How This Amino Acid Extends Lifespan and Slows Aging",
+                      "description":  "Explore the science-backed benefits of Taurine for extending lifespan, combating cellular senescence, and boosting mitochondrial health. Complete biohacking guide.",
+                      "publish_date":  "2026-07-15",
+                      "publish_time":  "16:00"
+                  },
+                  {
+                      "filename":  "glynac-glutathione-mitochondrial-reversal.html",
+                      "image_url":  "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 11, 2026",
+                      "title":  "GlyNAC: The Synergistic Stack of Glycine and NAC for Cellular Rejuvenation",
+                      "description":  "Discover how GlyNAC (Glycine + N-Acetylcysteine) boosts glutathione levels, corrects mitochondrial dysfunction, reduces oxidative stress, and reverses biological aging markers.",
+                      "publish_date":  "2026-07-11",
+                      "publish_time":  "10:00"
+                  },
+                  {
+                      "filename":  "fisetin-senolytic-brain-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 10, 2026",
+                      "title":  "Fisetin: The Powerful Senolytic for Cellular Cleanup and Brain Health",
+                      "description":  "Discover how Fisetin acts as a natural senolytic to clear senescent zombie cells, improve cognitive function, reduce inflammation, and support healthy brain aging.",
+                      "publish_date":  "2026-07-10",
+                      "publish_time":  "16:00"
+                  },
+                  {
+                      "filename":  "methylene-blue-mitochondrial-respiration-brain-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 06, 2026",
+                      "title":  "Methylene Blue: The Mitochondrial Respiration and Cognitive Longevity Booster",
+                      "description":  "Explore the science-backed benefits of Methylene Blue for mitochondrial electron chain transport, memory enhancement, neuroprotection, and cellular energy optimization.",
+                      "publish_date":  "2026-07-06",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "astragalus-root-telomere-lengthening.html",
+                      "image_url":  "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 03, 2026",
+                      "title":  "Astragalus Root (TA-65) for Telomere Lengthening: Cellular Science and Immunity",
+                      "description":  "Discover the science of Astragalus Root extract (TA-65) for telomere lengthening, immune rejuvenation, cellular longevity, and biological age reversal.",
+                      "publish_date":  "2026-07-03",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "coq10-pqq-mitochondrial-synergy.html",
+                      "image_url":  "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 01, 2026",
+                      "title":  "CoQ10 and PQQ: The Synergistic Stack for Mitochondrial Biogenesis \u0026 Brain Longevity",
+                      "description":  "Explore how CoQ10 and PQQ work synergistically to boost cellular ATP production, stimulate mitochondrial biogenesis, and protect brain cells from cognitive decline.",
+                      "publish_date":  "2026-07-01",
+                      "publish_time":  "09:00"
+                  },
+                  {
+                      "filename":  "maximize-autophagy-supplement-stack.html",
+                      "image_url":  "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 16, 2026",
+                      "title":  "How to Maximize Cellular Autophagy: Synergistic Stacking of NMN, Fisetin, and Spermidine",
+                      "description":  "Examine the scientific mechanics of cellular cleanup. Learn how to design an optimal biohacking stack combining NMN, Fisetin, and Spermidine to maximize autophagy and target senescent cells.",
+                      "publish_date":  "2026-06-16",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "mitochondrial-biohacking-nad-boosters.html",
+                      "image_url":  "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 07, 2026",
+                      "title":  "Mitochondrial Biohacking: 5 Science-Backed Protocols to Boost NAD+",
+                      "description":  "Discover the top 5 science-backed mitochondrial biohacking protocols. Learn how NAD+ boosters, NMN, CoQ10, and lifestyle adjustments extend healthspan.",
+                      "publish_date":  "2026-06-07",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "resveratrol-pterostilbene-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 08, 2026",
+                      "title":  "Resveratrol vs Pterostilbene: Which Is Better for Anti-Aging?",
+                      "description":  "Compare Resveratrol and Pterostilbene for anti-aging. Learn about bioavailability, sirtuin activation, optimal dosage, and side effects.",
+                      "publish_date":  "2026-06-08",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "cold-plunge-mitochondria-health.html",
+                      "image_url":  "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 09, 2026",
+                      "title":  "Cold Plunge Biohacking: How Cold Exposure Boosts Mitochondria",
+                      "description":  "Discover the science of cold plunge biohacking. Learn how cold exposure activates brown fat, triggers mitochondrial biogenesis, and lowers chronic inflammation.",
+                      "publish_date":  "2026-06-09",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "sirtuins-activation-diet-protocols.html",
+                      "image_url":  "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 10, 2026",
+                      "title":  "Sirtuin Activation: 5 Daily Dietary Protocols for Longevity",
+                      "description":  "Unlock the secrets of Sirtuin activation. Learn 5 practical, daily dietary protocols and foods to activate longevity pathways, repair DNA, and boost NAD+.",
+                      "publish_date":  "2026-06-10",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "apigenin-cd38-booster-sleep.html",
+                      "image_url":  "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 11, 2026",
+                      "title":  "Apigenin Guide: How This CD38 Inhibitor Boosts Sleep and NAD+ Levels",
+                      "description":  "Learn how Apigenin acts as a CD38 inhibitor to protect NAD+ levels, reduce anxiety, and optimize deep sleep cycles. Complete dosage and stacking guide.",
+                      "publish_date":  "2026-06-11",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "zone-2-cardio-mitochondrial-density.html",
+                      "image_url":  "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 12, 2026",
+                      "title":  "Zone 2 Training: The Ultimate Protocol to Increase Mitochondrial Density",
+                      "description":  "Discover how Zone 2 training increases mitochondrial density, improves metabolic flexibility, and delays biological aging. Complete weekly protocol guide.",
+                      "publish_date":  "2026-06-12",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "ashwagandha-cortisol-stress-reduction.html",
+                      "image_url":  "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 13, 2026",
+                      "title":  "Ashwagandha Biohacking: Science-Backed Stress and Cortisol Reduction",
+                      "description":  "Discover the biohacking science of Ashwagandha. Learn how this adaptogen lowers cortisol, reduces chronic stress, improves sleep, and supports cellular health.",
+                      "publish_date":  "2026-06-13",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "senolytics-quercetin-dasatinib-aging.html",
+                      "image_url":  "https://images.unsplash.com/photo-1567306301408-9b74779a11af?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 14, 2026",
+                      "title":  "Senolytics Guide: How Quercetin and Fisetin Clear Senescent Cells",
+                      "description":  "Unlock the power of senolytics. Learn how natural compounds like Quercetin, Fisetin, and Piperlongumine clear senescent zombie cells to halt biological aging.",
+                      "publish_date":  "2026-06-14",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "mitopure-urolithin-a-mitophagy.html",
+                      "image_url":  "https://images.unsplash.com/photo-1529692236671-f1db0e74c0c5?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 15, 2026",
+                      "title":  "Urolithin A and Mitopure: The Mitophagy Activator for Muscle Health",
+                      "description":  "Discover how Urolithin A and Mitopure activate mitophagy to clear damaged mitochondria, restore cellular energy, and increase muscle strength. Complete guide.",
+                      "publish_date":  "2026-06-15",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "time-restricted-eating-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1517949908113-3d3c821a6aaf?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 16, 2026",
+                      "title":  "Time-Restricted Eating for Longevity: 16/8, 18/6, and Cellular Repair",
+                      "description":  "Learn how time-restricted eating schedules support autophagy, insulin sensitivity, and longevity pathways in aging adults.",
+                      "publish_date":  "2026-06-16",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "cold-therapy-heat-shock-proteins.html",
+                      "image_url":  "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 17, 2026",
+                      "title":  "Cold Therapy and Heat Shock Proteins: Recovery, Resilience, and Longevity",
+                      "description":  "Explore how cold exposure triggers heat shock proteins, reduces inflammation, and strengthens metabolic resilience for healthy aging.",
+                      "publish_date":  "2026-06-17",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "sleep-hygiene-melatonin-biohacking.html",
+                      "image_url":  "https://images.unsplash.com/photo-1511295742362-92c96b124e52?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 18, 2026",
+                      "title":  "Sleep Hygiene for Biohackers: Melatonin, Light, and Recovery",
+                      "description":  "Master sleep hygiene for optimal recovery, hormone balance, and cellular repair with biohacking strategies tailored to longevity.",
+                      "publish_date":  "2026-06-18",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "gut-microbiome-senescence.html",
+                      "image_url":  "https://images.unsplash.com/photo-1550950158-d0d960dff51b?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 19, 2026",
+                      "title":  "Gut Microbiome and Cellular Senescence: The Biohacking Path to Healthspan",
+                      "description":  "Understand how a balanced microbiome supports mitochondria, immunity, and aging-proof health through targeted nutrition and prebiotics.",
+                      "publish_date":  "2026-06-19",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "oxidative-stress-nrf2-antioxidant-pathways.html",
+                      "image_url":  "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 20, 2026",
+                      "title":  "Oxidative Stress and Nrf2 Activation: Antioxidant Biohacks for Longevity",
+                      "description":  "Learn how Nrf2 activation and antioxidant support protect cells from oxidative damage and preserve healthspan in aging adults.",
+                      "publish_date":  "2026-06-20",
+                      "publish_time":  "10:20"
+                  },
+                  {
+                      "filename":  "nmn-vs-resveratrol-anti-aging.html",
+                      "image_url":  "https://images.unsplash.com/photo-1550572017-edf7928424a1?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 18, 2026",
+                      "title":  "NMN vs. Resveratrol: Science-Backed Synergistic Longevity \u0026 Anti-Aging Stack",
+                      "description":  "Understand the synergy of Nicotinamide Mononucleotide (NMN) and Resveratrol. Explore cell repair mechanisms, sirtuin activation, and correct stacking protocols.",
+                      "publish_date":  "2026-06-18",
+                      "publish_time":  "08:20"
+                  },
+                  {
+                      "filename":  "chondroitin-msm-joint-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jun 18, 2026",
+                      "title":  "Chondroitin and MSM Synergy: The Scientific Protocol for Joint Longevity and Cartilage Repair",
+                      "description":  "Discover the scientific mechanism behind the joint longevity synergy of Chondroitin and MSM. Learn how this powerful combination reduces inflammation, restores cartilage, and enhances biological healthspan.",
+                      "publish_date":  "2026-06-18",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "lithium-orotate-neurogenesis-brain-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 02, 2026",
+                      "title":  "Lithium Orotate: The Microdose Biohack for Neurogenesis, BDNF, and Brain Longevity",
+                      "description":  "Discover how microdosing Lithium Orotate stimulates neurogenesis, increases BDNF levels, protects brain volume, and supports long-term cognitive healthspan.",
+                      "publish_date":  "2026-07-02",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "sulforaphane-nrf2-cellular-defense-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 08, 2026",
+                      "title":  "Sulforaphane and Nrf2: The Ultimate Science-Backed Cellular Defense Stack",
+                      "description":  "Discover how Sulforaphane activates the Nrf2 pathway to boost cellular detoxification, combat oxidative stress, reduce DNA damage, and promote longevity.",
+                      "publish_date":  "2026-07-08",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "ca-akg-epigenetic-age-reversal-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 09, 2026",
+                      "title":  "Calcium Alpha-Ketoglutarate (Ca-AKG): The Epigenetic Age Reversal Molecule",
+                      "description":  "Discover the cellular mechanisms of Ca-AKG, including DNA methylation regulation, AMPK activation, mTOR inhibition, and its clinical potential to reverse biological age.",
+                      "publish_date":  "2026-07-09",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "spermidine-autophagy-cellular-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 12, 2026",
+                      "title":  "Spermidine: The Autophagy-Inducing Compound for Cellular Rejuvenation",
+                      "description":  "Explore how Spermidine induces autophagy, enhances cellular clearance of toxic proteins, improves cardiovascular health, and supports human healthspan.",
+                      "publish_date":  "2026-07-12",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "ergothioneine-mitochondrial-longevity-antioxidant.html",
+                      "image_url":  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 13, 2026",
+                      "title":  "Ergothioneine: The Longevity Vitamin for Mitochondrial Protection and Healthy Aging",
+                      "description":  "Discover how Ergothioneine, the newly designated longevity vitamin, targets cellular transporter OCTN1 to protect mitochondria, preserve DNA, and defend against biological aging.",
+                      "publish_date":  "2026-07-13",
+                      "publish_time":  "07:00"
+                  },
+                  {
+                      "filename":  "nicotinamide-riboside-nr-nad-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 26, 2026",
+                      "title":  "Nicotinamide Riboside (NR): NAD+ Restoration, Mitochondrial Respiration, and Healthy Aging Protocol",
+                      "description":  "Discover the scientific mechanism of Nicotinamide Riboside (NR) for boosting NAD+ levels, activating Sirtuin enzymes, repairing cellular DNA, and fueling mitochondrial respiration.",
+                      "publish_date":  "2026-07-26",
+                      "publish_time":  "16:00"
+                  },
+                  {
+                      "filename":  "tmg-betaine-methylation-nad-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 28, 2026",
+                      "title":  "TMG (Trimethylglycine): The Essential Methyl Donor for NAD+ Boosters, Homocysteine Control, and Cellular Longevity",
+                      "description":  "Discover the scientific mechanisms of Trimethylglycine (TMG / Betaine Anhydrous) for supporting cellular methylation pathways, lowering toxic homocysteine levels, protecting hepatic health, and optimizing NMN/NR supplementation.",
+                      "publish_date":  "2026-07-28",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "alpha-gpc-huperzine-a-neuroplasticity-brain-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Jul 29, 2026",
+                      "title":  "Alpha-GPC and Huperzine A: The Acetylcholine Stack for Brain Longevity, Neuroplasticity, and Memory",
+                      "description":  "Explore how combining Alpha-GPC and Huperzine A optimizes cholinergic transmission, promotes BDNF expression, protects synaptic density, and prevents age-related cognitive decline.",
+                      "publish_date":  "2026-07-29",
+                      "publish_time":  "16:00"
+                  },
+                  {
+                      "filename":  "hyaluronic-acid-collagen-matrix-skin-longevity.html",
+                      "image_url":  "https://images.unsplash.com/photo-1512290900673-70024421d9c6?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Anti-Aging",
+                      "date_display":  "Jul 30, 2026",
+                      "title":  "Oral Hyaluronic Acid and Liposomal Collagen: Cellular Skin Longevity, ECM Matrix Renewal, and Glycation Defense",
+                      "description":  "Discover the biological mechanics of oral Hyaluronic Acid and liposomal collagen peptides for dermal fibroblast stimulation, extracellular matrix preservation, and preventing skin aging.",
+                      "publish_date":  "2026-07-30",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "trehalose-lysosomal-autophagy-neuroprotection.html",
+                      "image_url":  "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 05, 2026",
+                      "title":  "Trehalose and TFEB Activation: The Lysosomal Autophagy Protocol for Protein Clearance and Cellular Longevity",
+                      "description":  "Discover the scientific mechanisms of Trehalose for activating TFEB (Transcription Factor EB), restoring lysosomal biogenesis, clearing toxic protein aggregates, and promoting neuroprotective healthspan.",
+                      "publish_date":  "2026-08-05",
+                      "publish_time":  "08:00"
+                  },
+                  {
+                      "filename":  "creatine-brain-longevity-methylation-atp.html",
+                      "image_url":  "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+                      "tag":  "Biohacking",
+                      "date_display":  "Aug 07, 2026",
+                      "title":  "Creatine Monohydrate for Brain Longevity: Cellular ATP Preservation, Methylation Sparing, and Neuroprotection Protocol",
+                      "description":  "Discover the groundbreaking biohacking science of Creatine Monohydrate for brain aging, cellular energy, SAMe methylation sparing, and cognitive healthspan extension.",
+                      "publish_date":  "2026-08-07",
+                      "publish_time":  "10:00"
+                  }
+              ]
 }
